@@ -90,9 +90,9 @@ Download M2DGR from https://github.com/SJTU-ViSYS/M2DGR#dataset-sequences
 
 # Acknowledgements
 Thanks to all the open-source projects mentioned in this paper.
-[Faster-LIO](https://github.com/gaoxiang12/faster-lio)
-[Fast-LIO2](https://github.com/hku-mars/FAST_LIO)
-[LIO-PPF](https://github.com/xingyuuchen/LIO-PPF)
-[IG-LIO](https://github.com/zijiechenrobotics/ig_lio)
-[SI-LIO](https://github.com/USTC-AIS-Lab/SI-LIO)
-[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+1. [Faster-LIO](https://github.com/gaoxiang12/faster-lio)
+2. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO)
+3. [LIO-PPF](https://github.com/xingyuuchen/LIO-PPF)
+4. [IG-LIO](https://github.com/zijiechenrobotics/ig_lio)
+5. [SI-LIO](https://github.com/USTC-AIS-Lab/SI-LIO)
+6. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)

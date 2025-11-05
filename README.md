@@ -1,4 +1,4 @@
-# ground-uncertainty
+# Ground-uncertainty
 This paper presents an efficient LiDAR-intertial odometry with reduced Z-axis drift, incorporating uncertainty in ground points, which effectively alleviates drift in the Z-axis direction during mapping. A related odometry is also developed based on the UA-LIO manuscript’s introduction. The contributions of this work are as follows.
 -  We propose a method to reduce Z-axis drift by leveraging the uncertainty of ground points to enhance the accuracy of map construction.
 -  We propose a method for merging adjacent planes based on plane similarity. Neighboring planes with similar geometric characteristics are merged, and the uncertainty coefficients of the neighboring planes are used to update the parameters of the current plane. During residual computation, the plane information stored in the root node is directly utilized for point-to-plane matching, thereby improving both computational efficiency and overall mapping accuracy.

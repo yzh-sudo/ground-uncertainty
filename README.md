@@ -27,4 +27,5 @@ Thanks to the work of UA-LIO, here are the relevant citation links for UA-LIO an
   publisher={IEEE}
 }
 ```
-The experiment video can be found on [![Bilibili](https://i0.hdslb.com/bfs/archive/3f3b8c1d8f6b4e1a9c2a32d8a876e5a65b8e87c8.jpg)](https://www.bilibili.com/video/BV1mp1xBaEsp/?vd_source=75952e5ef3a34b2c0f143e1a6ee26441)
+The experiment video can be found on [Bilibili](https://www.bilibili.com/video/BV1mp1xBaEsp/?vd_source=75952e5ef3a34b2c0f143e1a6ee26441).
+

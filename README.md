@@ -71,19 +71,19 @@ The experiment video can be found on [YouTube](https://youtu.be/jDTVptWhxXg), [B
    ```
 
 # Dataset
-## 1. UrbanNav Dataset
+1. UrbanNav Dataset
 Download UrbanNav from https://github.com/weisongwen/UrbanNavDataset
 
-## 2. NCLT Dataset
+2. NCLT Dataset
 Download NCLT from http://robots.engin.umich.edu/nclt/
 
-## 3. ULHK Dataset
+3. ULHK Dataset
 Download ULHK from https://github.com/weisongwen/UrbanLoco
 
-## 4. UTBM Dataset
+4. UTBM Dataset
 Download ULHK from https://epan-utbm.github.io/utbm_robocar_dataset/
 
-## 5. M2DGR Dataset
+5. M2DGR Dataset
 Download M2DGR from https://github.com/SJTU-ViSYS/M2DGR#dataset-sequences
 
 # Details about all sequences in the paper

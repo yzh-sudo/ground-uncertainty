@@ -32,10 +32,12 @@ The experiment video can be found on [YouTube](https://youtu.be/jDTVptWhxXg), [B
 ## Dependency
 1. **Ubuntu and ROS**
    - Ubuntu 18.04 or Ubuntu 20.04 is recommended.
+     
 2. **GCC & G++ (only for Ubuntu 18.04)**
    - `gcc & g++ >= 9`
+     
 3. **ROS (melodic or noetic)**
+   
 4. **glog**
-   ```bibtex
-sudo apt-get install -y libgoogle-glog-dev
-```
+   ```bash
+  sudo apt-get install -y libgoogle-glog-dev

@@ -3,6 +3,7 @@ This paper presents an efficient LiDAR-intertial odometry with reduced Z-axis dr
 -  We propose a method to reduce Z-axis drift by leveraging the uncertainty of ground points to enhance the accuracy of map construction.
 -  We propose a method for merging adjacent planes based on plane similarity. Neighboring planes with similar geometric characteristics are merged, and the uncertainty coefficients of the neighboring planes are used to update the parameters of the current plane. During residual computation, the plane information stored in the root node is directly utilized for point-to-plane matching, thereby improving both computational efficiency and overall mapping accuracy.
 -  We incorporate the proposed method into Faster-LIO and validated its effectiveness across public datasets. Additionally, we test the robustness of our method on our campus datasets, demonstrating that it can effectively reduce both computational time and Z-axis drift in LIO.
+
 Thanks to the work of UA-LIO, here are the relevant citation links for UA-LIO and Faster-LIO.
 ```bibtex
 @article{wu2025ua,

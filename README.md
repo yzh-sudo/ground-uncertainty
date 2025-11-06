@@ -88,7 +88,7 @@ Download M2DGR from https://github.com/SJTU-ViSYS/M2DGR#dataset-sequences
 
 # Details about all sequences in the paper
 Due to the limitations of the paper's length, we list all the relevant sequence details used in the table below.
-| Abbreviation | Name                         | Distance(km) | Sensor Type              |
+| Sequence | Name                         | Distance(km) | Sensor              |
 |--------------|------------------------------|--------------|--------------------------|
 | Urban_1      | UrbanNav-HK-Medium-Urban-1   | 3.64         | Velodyne HDL-32E         |
 | Urban_2      | UrbanNav-HK-Deep-Urban-1     | 4.51         | Velodyne HDL-32E         |

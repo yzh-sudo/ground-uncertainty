@@ -105,11 +105,11 @@ Due to the limitations of the paper's length, we list all the relevant sequence 
 | utbm_5       | 20190418round                | 4.20         | Velodyne HDL-32E         |
 | ulhk_1       | HK-Data20190117              | 0.60         | Velodyne HDL-32E         |
 | ulhk_2       | HK-Data20190426-1            | 0.60         | Velodyne HDL-32E         |
-| M2DGR_1      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
-| M2DGR_2      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
-| M2DGR_3      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
-| M2DGR_4      | gate01                       | 1.61         | Ouster OS1-64            |
-| M2DGR_5      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
+| M2DGR_1      | street_08                    | 0.34         | Velodyne VLP-32C         |
+| M2DGR_2      | street_01                    | 0.75         | Velodyne VLP-32C         |
+| M2DGR_3      | street_10                    | 0.97         | Velodyne VLP-32C         |
+| M2DGR_4      | gate01                       | 0.14         | Velodyne VLP-32C         |
+| M2DGR_5      | gate02                       | 0.29         | Velodyne VLP-32C         |
 
 # Acknowledgements
 Thanks to all the open-source projects mentioned in this paper.

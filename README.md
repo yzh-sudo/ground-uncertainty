@@ -72,7 +72,7 @@ The experiment video can be found on [YouTube](https://youtu.be/jDTVptWhxXg), [B
 
 # Dataset
 1. UrbanNav Dataset
-Download UrbanNav from https://github.com/weisongwen/UrbanNavDataset
+Download UrbanNav from https://github.com/IPNL-POLYU/UrbanNavDataset
 
 2. NCLT Dataset
 Download NCLT from http://robots.engin.umich.edu/nclt/
@@ -87,6 +87,29 @@ Download ULHK from https://epan-utbm.github.io/utbm_robocar_dataset/
 Download M2DGR from https://github.com/SJTU-ViSYS/M2DGR#dataset-sequences
 
 # Details about all sequences in the paper
+Due to the limitations of the paper's length, we list all the relevant sequence details used in the table below.
+| Abbreviation | Name                         | Distance(km) | Sensor Type              |
+|--------------|------------------------------|--------------|--------------------------|
+| Urban_1      | UrbanNav-HK-Medium-Urban-1   | 3.64         | Velodyne HDL-32E         |
+| Urban_2      | UrbanNav-HK-Deep-Urban-1     | 4.51         | Velodyne HDL-32E         |
+| Urban_3      | UrbanNav-HK-Harsh-Urban-1    | 4.86         | Velodyne HDL-32E         |
+| nclt_1       | 2013-01-10                   | 1.14         | Velodyne HDL-32E         |
+| nclt_2       | 2012-06-15                   | 4.10         | Velodyne HDL-32E         |
+| nclt_3       | 2012-05-11                   | 6.12         | Velodyne HDL-32E         |
+| nclt_4       | 2012-04-29                   | 3.20         | Velodyne HDL-32E         |
+| nclt_5       | 2013-01-15                   | 7.60         | Velodyne HDL-32E         |
+| utbm_1       | 20180716                     | 5.00         | Velodyne HDL-32E         |
+| utbm_2       | 20180717                     | 5.00         | Velodyne HDL-32E         |
+| utbm_3       | 20180718                     | 5.00         | Velodyne HDL-32E         |
+| utbm_4       | 20190418                     | 5.00         | Velodyne HDL-32E         |
+| utbm_5       | 20190418round                | 4.20         | Velodyne HDL-32E         |
+| ulhk_1       | HK-Data20190117              | 0.60         | Velodyne HDL-32E         |
+| ulhk_2       | HK-Data20190426-1            | 0.60         | Velodyne HDL-32E         |
+| M2DGR_1      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
+| M2DGR_2      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
+| M2DGR_3      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
+| M2DGR_4      | gate01                       | 1.61         | Ouster OS1-64            |
+| M2DGR_5      | 01_short_experiment          | 1.61         | Ouster OS1-64            |
 
 # Acknowledgements
 Thanks to all the open-source projects mentioned in this paper.

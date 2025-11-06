@@ -111,6 +111,9 @@ Due to the limitations of the paper's length, we list all the relevant sequence 
 | M2DGR_4      | gate01                       | 0.14         | Velodyne VLP-32C         |
 | M2DGR_5      | gate02                       | 0.29         | Velodyne VLP-32C         |
 
+# The following figure shows a comparison of Z-axis trajectory mapping when different algorithms return to the same position on the second loop of the urban_1 sequence.
+![Project Image](./ueban.png)
+
 # Acknowledgements
 Thanks to all the open-source projects mentioned in this paper.
 1. [Faster-LIO](https://github.com/gaoxiang12/faster-lio)
